@@ -7,6 +7,7 @@ import java.math.*;
 import javax.swing.*;
 /**
  * @author Andrew
+ * @version 1.0 final
  */
 public class Calculator extends JFrame implements MouseListener
 {
